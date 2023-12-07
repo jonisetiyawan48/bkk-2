@@ -1,0 +1,38 @@
+[
+  {
+    "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png",
+    "lecturer": "Muhammad Arifin s.pd",
+    "title": "Pemrograman Android",
+    "tag": "rekayasa perangkat lunak",
+    "startdate": 	1668215783,
+    "enddate": 1670634983,
+    "total_people": 120
+  },
+  {
+    "thumbnail_url": "https://i0.wp.com/ritajms.com/wp-content/uploads/2019/11/52351011-english-british-england-language-education-concept.jpg?fit=1300%2C959&ssl=1",
+    "lecturer": "Andree Rivan Kurniawan s.pd",
+    "title": "Bahasa Inggris",
+    "tag": "muatan nasional",
+    "startdate": 1665623783,
+    "enddate": 1669252583,
+    "total_people": 200
+  },
+  {
+    "thumbnail_url": "https://press.princeton.edu/sites/default/files/styles/hero_background/public/2019-09/SUB_Math_01_0.jpg?itok=dmWvu8Xm",
+    "lecturer": "Drs. Fuad Choliq S.pd",
+    "title": "Matematika",
+    "tag": "wawasan umum",
+    "startdate": 	1660353383,
+    "enddate": 1663982183,
+    "total_people": 56
+  },
+  {
+    "thumbnail_url": "https://elsamara.id/wp-content/uploads/2020/10/Tata_Nama_Senyawa_Kimia_disway.id-01_.jpg",
+    "lecturer": "Sri Chusnul Haniyah S.pd",
+    "title": "Kimia",
+    "tag": "wawasan umum",
+    "startdate": 	1660353383,
+    "enddate": 1663982183,
+    "total_people": 56
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "muatan nasional": {
+    "background":"rgba(0,26,255,10%)",
+    "color":"#001AFF"
+  },
+  "nasional": {
+    "background":"rgba(0,26,255,10%)",
+    "color":"#001AFF"
+  },
+  "rekayasa perangkat lunak": {
+    "background":"rgba(0,221,181,10%)",
+    "color":"#00DDB5"
+  },
+  "wawasan umum": {
+    "background":"rgba(255,155,5,10%)",
+    "color":"#FF9B05"
+  },
+  "rpl": {
+    "background":"rgba(0,221,181,10%)",
+    "color":"#00DDB5"
+  }
+}

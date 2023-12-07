@@ -1,0 +1,99 @@
+[
+    {
+        "user": {
+            "name": "Kevin",
+            "profile_icon": "https://cdn2.iconfinder.com/data/icons/popular-games-1/50/wot_squircle-512.png"
+        },
+        "post_image": "https://img.game-news24.com/2022/04/Rainbow-Six-Siege-Reveals-Rengoku-Event-Details.jpeg",
+        "post_body":"New Samurai Event Has Dropped!!!",
+        "date": 1652629005,
+        "likes":1055,
+        "comments":80,
+        "share":63
+    },
+    {
+        "user": {
+            "name": "Nanda",
+            "profile_icon": "https://media.istockphoto.com/photos/super-bright-comet-at-night-picture-id525629313?k=20&m=525629313&s=612x612&w=0&h=wG-ZGEMhvIoMg1UK4-jshZGoQX_4JABklxAnlQRTJIw="
+        },
+        "post_image": "https://oia.ugm.ac.id/wp-content/uploads/sites/326/2020/03/Web-Selcuk-University.jpg",
+        "post_body":"Guys Aku Keterima disini hehe :D",
+        "date": 1652624085,
+        "likes":1000000,
+        "comments":870,
+        "share":1441
+    },
+    {
+        "user": {
+            "name": "Marin",
+            "profile_icon": "https://nawalakarsa.id/wp-content/uploads/2022/02/analisa-marin-kitagawa-header.jpg"
+        },
+        "post_image": "https://cdn.donmai.us/sample/41/14/__kitagawa_marin_and_kuroe_shizuku_sono_bisque_doll_wa_koi_wo_suru_drawn_by_jyuma__sample-41148f7dac49995c4e9b3e1055004c97.jpg",
+        "post_body":"aku ada cosplay baru loh!",
+        "date": 1652456205,
+        "likes":69696,
+        "comments":13212,
+        "share":31200
+    },
+    {
+        "user": {
+            "name": "Devon",
+            "profile_icon": "https://st2.depositphotos.com/45820854/44493/v/380/depositphotos_444931560-stock-illustration-japanese-sport-car-vector-isolated.jpg?forcejpeg=true"
+        },
+        "post_image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/7/a77ffc08-1c7e-4a0f-91a1-9d3c5f8e8a77.jpg",
+        "post_body":"Mari bermain game ini bersama!",
+        "date": 1651419405,
+        "likes":980,
+        "comments":67,
+        "share":506
+    },
+    {
+        "user": {
+            "name": "Chris",
+            "profile_icon": "https://i.pinimg.com/474x/e6/77/92/e6779219452a298281a312d6ab3cde53.jpg"
+        },
+        "post_image": "https://pbs.twimg.com/media/FLeoz8iXoAInuU_.png",
+        "post_body":"Yay I've unlocked all the achievement :D",
+        "date": 1649000205,
+        "likes":50000,
+        "comments":1022,
+        "share":256
+    },
+    {
+        "user": {
+            "name": "Fadlillah",
+            "profile_icon": "https://pbs.twimg.com/media/EBOui09W4AEhULw.jpg"
+        },
+        "post_image": "https://i.ytimg.com/vi/TWRvB8fh8T8/maxresdefault.jpg",
+        "post_body":"Wow",
+        "date": 1643902605,
+        "likes":990,
+        "comments":78,
+        "share":23
+    },
+    {
+        "user": {
+            "name": "Yulius",
+            "profile_icon": "https://64.media.tumblr.com/60e2452c6ab136ff0ab52b6fdbe964c7/f5fac5676cc88d34-29/s540x810/322363e81093a61488c6167b4cadc64566d8fb9c.jpg"
+        },
+        "post_image": "https://static.republika.co.id/uploads/images/inpicture_slide/penjual-street-food-sedang-melayani-pembeli-di-sebuah-kawasan-_191205203306-866.jpg",
+        "post_body":"Hayuu ke Bangkok :D",
+        "date": 1638545805,
+        "likes":9000,
+        "comments":80,
+        "share":12
+    },
+    {
+        "user": {
+            "name": "Wahyu",
+            "profile_icon": "https://techbigs.com/uploads/2021/6/tensura-king-of-monsters-icon.jpg"
+        },
+        "post_image": "http://www.citycentermarket.coop/wp-content/uploads/2021/04/Steak-Sale-2021_8.5x11-Flyer-FINAL-796x1030.jpg",
+        "post_body":"Info makan steak?",
+        "date": 1575387405,
+        "likes":500,
+        "comments":45,
+        "share":12
+    }
+    
+]
